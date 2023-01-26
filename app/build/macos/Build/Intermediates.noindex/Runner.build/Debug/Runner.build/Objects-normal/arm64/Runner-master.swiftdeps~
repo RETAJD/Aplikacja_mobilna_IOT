@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "438cf6181b1276d4d90cada755f203303cccc0e0add3407cc4402ee0e0727e46"
+build_start_time: [1674597815, 194391012]
+build_end_time: [1674597815, 214692115]
+inputs:
+  "/Users/marcin-macbook/development/IOT app/flutter_login_register_nodejs/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1674597797, 202372550]
+  "/Users/marcin-macbook/development/IOT app/flutter_login_register_nodejs/macos/Runner/AppDelegate.swift": !private [1671141040, 0]
+  "/Users/marcin-macbook/development/IOT app/flutter_login_register_nodejs/macos/Runner/MainFlutterWindow.swift": !private [1671141040, 0]

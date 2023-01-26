@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "c35ec4193968b5a09b479eafd02c6491b4a380f8cd36ca4514a523d7140612f5"
+build_start_time: [1674597802, 132851123]
+build_end_time: [1674597805, 705585956]
+inputs:
+  "/Users/marcin-macbook/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-2.0.7/macos/Classes/PathProviderPlugin.swift": [1673899487, 902610301]
+  "/Users/marcin-macbook/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-2.0.7/macos/Classes/messages.g.swift": [1673899487, 902245521]

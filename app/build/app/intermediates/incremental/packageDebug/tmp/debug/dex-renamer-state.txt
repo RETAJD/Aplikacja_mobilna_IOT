@@ -1,0 +1,4 @@
+#Wed Jan 25 02:47:24 CET 2023
+base.0=/Users/marcin-macbook/development/IOT app/flutter_login_register_nodejs/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
